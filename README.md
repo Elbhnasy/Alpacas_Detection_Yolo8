@@ -17,7 +17,8 @@ Due to the limited size of the dataset, augmentation techniques such as flipping
 
 ### Results 📈 : 
 Despite the limited dataset and training resources, the YOLOv8 model shows promising results in detecting alpacas in images. The detection accuracy and precision may not be as high as models trained on larger datasets. 
-![results](https://github.com/Elbhnasy/Alpacas_Detection_Yolo8/assets/63622300/89e045b1-a05e-4ca0-99b9-ff66f07be598)
+![Results](https://github.com/Elbhnasy/Alpacas_Detection_Yolo8/assets/63622300/09cc8198-d06d-41b1-87f9-423d4b5fe35e)
+
 
 
 #### Output :
