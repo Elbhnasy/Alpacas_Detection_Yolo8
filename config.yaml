@@ -1,0 +1,6 @@
+path: /home/fox/CodingArea/ObjectDetection/Alpaca_Detection_project/Data
+train: images/train
+val: images/train
+nc: 1
+names: ['alpaca']
+  

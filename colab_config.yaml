@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/Object_Detection/Alpaca_Detection_project/data
+train: images/train
+val: images/train
+nc: 1
+names: ['alpaca']
+  
