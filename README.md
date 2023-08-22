@@ -24,3 +24,9 @@ Despite the limited dataset and training resources, the YOLOv8 model shows promi
 
 
 
+
+
+https://github.com/Elbhnasy/Alpacas_Detection_Yolo8/assets/63622300/f865b5c9-c37a-45a5-8299-0f9e8f6bbad9
+
+
+
